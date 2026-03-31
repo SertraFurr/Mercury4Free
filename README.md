@@ -1,6 +1,6 @@
 # Mercury4Free Wrapper
 
-A Python wrapper for the Mercury web API. (1000 tokens/second)
+A Python wrapper for the Mercury ([InceptionLabs](https://www.inceptionlabs.ai/) web API. (1000 tokens/second))
 
 ## Installation
 
