@@ -1,6 +1,6 @@
 # Mercury4Free Wrapper
 
-A Python wrapper for the Mercury web API.
+A Python wrapper for the Mercury web API. (1000 tokens/second)
 
 ## Installation
 
