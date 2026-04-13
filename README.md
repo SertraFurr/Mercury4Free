@@ -35,6 +35,6 @@ The `reasoning_effort` must be one of:
 - `medium`
 - `high`
 
-If an invalid value is provided, a `ValueError` will be raised.
+If an invalid value is provided, a `ValueError` will be raised. 
 
 Feel free to fork, star, and use this wrapper in your projects! (Not affiliated with Inception Labs and could be taken down at any time)
